@@ -9,3 +9,11 @@ grid-template-columns: repeat(2, 1fr);
 	gap:0px;
 
 }
+.item{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	background-color:green;
+	border:1px solid black;
+
+}
